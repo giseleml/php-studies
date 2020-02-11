@@ -1,0 +1,7 @@
+PHP ---> Hypertext Preprocessor
+
+- Linguagem script server-side, ou seja, seus scrips são executados no server e o seu resultado
+para o browser como HTML puro.
+- Ferramenta poderosa na construção de páginas web dinâmicas e interativas
+- PHP 7 é a última atualização estável
+- Tipagem Fraca
