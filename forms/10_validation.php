@@ -29,7 +29,7 @@ Validando os formulários:
 
 <?php
 
-#  1) Criar variáveis e dar-lhes valores vazios. 
+#  1) Define variáveis e dar-lhes valores vazios. 
 $name = $email = $gender = $comment = $website = "";
 
 # 3) Checa e trata cada variávei recebida pelo método POST
