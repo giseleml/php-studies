@@ -32,7 +32,7 @@ Validando os formulários:
 #  1) Define variáveis e dar-lhes valores vazios. 
 $name = $email = $gender = $comment = $website = "";
 
-# 3) Checa e trata cada variávei recebida pelo método POST
+# 3) Checa e trata cada variável recebida pelo método POST
 
 if ($_SERVER["REQUEST_METHOD"] == "POST") {
   $name = test_input($_POST["name"]);
