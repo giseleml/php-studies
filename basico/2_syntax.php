@@ -12,7 +12,7 @@ echo "Hello World!";
 Um código PHP normalmente tem tags HTML também.
 
 OBS.: Todos os comandos terminam com ponto em vírgula em PHP. Não olhe agora, JavaScript!
-OBS2.: Por outro lado, palavras-chave não são case-sentivie. ECHO, echo ou EcHo são executados sem problemas.
+OBS2.: Por outro lado, palavras-chave não são case-sensitive. ECHO, echo ou EcHo são executados sem problemas.
 Já nomes de variáveis são case-sensitive.
 
 --- Comentários ---
