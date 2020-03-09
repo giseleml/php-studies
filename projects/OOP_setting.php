@@ -1,3 +1,4 @@
+<?
 class iceCream {
 
   public $color;
@@ -15,3 +16,4 @@ $grape = new iceCream;
 $strawberry->set_color('pink');
 echo "<br>";
 $grape->set_color('purple');
+?>
