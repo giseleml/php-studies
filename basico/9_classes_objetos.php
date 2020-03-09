@@ -31,3 +31,25 @@ Objeto
     $novoObjeto->funcaoInterna() 
 
 ?>
+
+
+Exemplo:
+
+<?php
+
+class animal {
+
+  function animalSound($sound) {
+	  echo $sound;
+    }
+}
+
+$dog = new animal;
+$dog->animalSound("Woof");
+
+echo "<br>";
+
+$cat = new animal;
+$cat->animalSound("Meow");
+
+?>
