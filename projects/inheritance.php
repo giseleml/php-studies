@@ -17,7 +17,7 @@ class Book {
       }
       
       function getTitle(){
-         echo $this->title;
+		  echo "Title: " . $this->title;
       }
    }
 
